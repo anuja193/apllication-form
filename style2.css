@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color:burlywood;
+}
+h1{
+    word-spacing: 12px;
+    color:brown;
+}
+label{
+   
+    height:20px;
+    width:400px;
+}
+input{                  
+    height:20px;
+    width:240px;
+    color:black;
+    border-radius:2px; ;
+    text-align: center;
+}
+input[type="gender"]{
+    width:240px;
+}
+
+button{
+     background-color: blue;
+     font-size: 20px;
+     border-radius:10px;
+}
